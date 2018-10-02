@@ -1,0 +1,4 @@
+https://github.com/abhinavagrawal1995/cs5200-fall2018-abhinav
+http://cs5200-fall2018-abhinav.us-east-2.elasticbeanstalk.com/
+http://cs5200-fall2018-abhinav.us-east-2.elasticbeanstalk.com/api/hello/string
+http://cs5200-fall2018-abhinav.us-east-2.elasticbeanstalk.com/api/hello/object
